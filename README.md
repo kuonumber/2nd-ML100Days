@@ -23,3 +23,5 @@
 ## D6
  * [Ways to Detect and Remove the Outliers](https://towardsdatascience.com/ways-to-detect-and-remove-the-outliers-404d16608dba)
  * [How to Use Statistics to Identify Outliers in Data](https://machinelearningmastery.com/how-to-use-statistics-to-identify-outliers-in-data/)
+ * [ECDF in python without step function?](https://stackoverflow.com/questions/14006520/ecdf-in-python-without-step-function)
+ * [ECDF wiki](https://zh.wikipedia.org/wiki/%E7%BB%8F%E9%AA%8C%E5%88%86%E5%B8%83%E5%87%BD%E6%95%B0)
