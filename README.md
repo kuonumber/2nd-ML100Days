@@ -14,4 +14,4 @@
   * [敘述統計與機率分佈 by 吳漢銘老師](http://www.hmwu.idv.tw/web/R_AI_M/AI-M1-hmwu_R_Stat&Prob.pdf)
   * 常見的機率分佈 
     * [Standard Statistical Distributions](https://www.healthknowledge.org.uk/public-health-textbook/research-methods/1b-statistical-methods/statistical-distributions])
-    * [List of probability distributions](https://en.wikipedia.org/wiki/List_of_probability_distributions）   
+    * (List of probability distributions)[https://en.wikipedia.org/wiki/List_of_probability_distributions]
