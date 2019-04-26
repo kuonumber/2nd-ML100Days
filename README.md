@@ -32,4 +32,4 @@
 
 ## D9
  * [statstutor- 介紹相關係數](http://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf)
- * [guessthecorrelation - ](http://guessthecorrelation.com/)
+ * [guessthecorrelation](http://guessthecorrelation.com/)
