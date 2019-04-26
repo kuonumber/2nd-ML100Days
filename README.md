@@ -28,3 +28,8 @@
 
 ## D7  
  * [Is it a good practice to always scale/normalize data for machine learning?](https://stats.stackexchange.com/questions/189652/is-it-a-good-practice-to-always-scale-normalize-data-for-machine-learning)
+
+
+## D9
+ * [statstutor- 介紹相關係數](http://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf)
+ * [guessthecorrelation - ](http://guessthecorrelation.com/)
