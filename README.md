@@ -38,4 +38,5 @@
  
 ## D10
  * [核密度估计 Kernel Density Estimation(KDE)](https://blog.csdn.net/unixtch/article/details/78556499)
- * [核密度估计基础-Part I]https://blog.csdn.net/david830_wu/article/details/66974189()
+ * [核密度估计基础-Part I](https://blog.csdn.net/david830_wu/article/details/66974189)
+ * [Python Graph Gallery (圖表參考)](https://python-graph-gallery.com/)
