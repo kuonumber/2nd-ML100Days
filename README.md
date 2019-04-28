@@ -35,3 +35,7 @@
 ## D9
  * [statstutor- 介紹相關係數](http://www.statstutor.ac.uk/resources/uploaded/pearsons.pdf)
  * [guessthecorrelation](http://guessthecorrelation.com/)
+ 
+## D10
+ * [核密度估计 Kernel Density Estimation(KDE)](https://blog.csdn.net/unixtch/article/details/78556499)
+ * [核密度估计基础-Part I]https://blog.csdn.net/david830_wu/article/details/66974189()
