@@ -45,3 +45,13 @@
 
 ## D12
 * [连续特征的离散化](https://www.zhihu.com/question/31989952)
+
+## D14
+* [Multiple Subplots](https://jakevdp.github.io/PythonDataScienceHandbook/04.08-multiple-subplots.html)
+* [Seaborn jointplot](https://seaborn.pydata.org/generated/seaborn.jointplot.html)
+
+## D17
+* [特征工程到底是什么？](https://www.zhihu.com/question/29316149)
+* [為什麼特徵工程很重要](https://ithelp.ithome.com.tw/articles/10200041?sc=iThelpR)
+* [使用sklearn做单机特征工程](http://www.cnblogs.com/jasonfreak/p/5448385.html)
+![](https://ai100-fileentity.cupoy.com/2nd/homework/D17/1556779129615/large)
