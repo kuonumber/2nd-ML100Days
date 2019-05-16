@@ -63,3 +63,6 @@
 * [數據缺失值處理](https://juejin.im/post/5b5c4e6c6fb9a04f90791e0c)
 * [数据标准化/归一化](https://blog.csdn.net/pipisorry/article/details/52247379)
 ![](https://ai100-fileentity.cupoy.com/2nd/homework/D19/1556780749687/large)
+
+## D20
+* [離群值](https://zhuanlan.zhihu.com/p/33468998)
