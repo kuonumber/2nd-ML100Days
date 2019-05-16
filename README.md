@@ -58,3 +58,7 @@
 
 ## D18
 * [Built-in Types Python 官方說明](https://docs.python.org/3/library/stdtypes.html)
+
+## D19
+* [數據缺失值處理](https://juejin.im/post/5b5c4e6c6fb9a04f90791e0c)
+![](https://ai100-fileentity.cupoy.com/2nd/homework/D19/1556780749687/large)
