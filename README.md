@@ -55,3 +55,6 @@
 * [為什麼特徵工程很重要](https://ithelp.ithome.com.tw/articles/10200041?sc=iThelpR)
 * [使用sklearn做单机特征工程](http://www.cnblogs.com/jasonfreak/p/5448385.html)
 ![](https://ai100-fileentity.cupoy.com/2nd/homework/D17/1556779129615/large)
+
+## D18
+* [Built-in Types Python 官方說明](https://docs.python.org/3/library/stdtypes.html)
