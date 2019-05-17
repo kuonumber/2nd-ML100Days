@@ -75,3 +75,7 @@
 
 ## D23
 * [平均數編碼](https://zhuanlan.zhihu.com/p/26308272)
+
+## D24
+* [Feature hashing](https://blog.csdn.net/laolu1573/article/details/79410187)
+* [基于sklearn的文本特征抽取](https://www.jianshu.com/p/063840752151)
