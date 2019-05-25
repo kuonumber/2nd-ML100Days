@@ -79,3 +79,9 @@
 ## D24
 * [Feature hashing](https://blog.csdn.net/laolu1573/article/details/79410187)
 * [基于sklearn的文本特征抽取](https://www.jianshu.com/p/063840752151)
+
+## D25
+* [python-base-datetime](http://www.wklken.me/posts/2015/03/03/python-base-datetime.html)
+* [encoding-cyclical-features-for-deep-learning](https://www.kaggle.com/avanwyk/encoding-cyclical-features-for-deep-learning)
+* [encoding-cyclical-features-24hour-time](https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/)
+* [feature-engineering-cyclical-features](http://blog.davidkaleko.com/feature-engineering-cyclical-features.html)
