@@ -85,3 +85,6 @@
 * [encoding-cyclical-features-for-deep-learning](https://www.kaggle.com/avanwyk/encoding-cyclical-features-for-deep-learning)
 * [encoding-cyclical-features-24hour-time](https://ianlondon.github.io/blog/encoding-cyclical-features-24hour-time/)
 * [feature-engineering-cyclical-features](http://blog.davidkaleko.com/feature-engineering-cyclical-features.html)
+
+## D26
+* [简单高效的组合特征自动挖掘框架](https://zhuanlan.zhihu.com/p/42946318)
