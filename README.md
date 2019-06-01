@@ -88,3 +88,10 @@
 
 ## D26
 * [简单高效的组合特征自动挖掘框架](https://zhuanlan.zhihu.com/p/42946318)
+
+## 27 
+* [利用python数据分析之数据聚合与分组（七）](https://zhuanlan.zhihu.com/p/27590154)
+
+## 28
+* [特征选择](https://zhuanlan.zhihu.com/p/32749489)
+* [Feature Selection](https://github.com/htygithub/machine-learning-python/blob/master/Feature_Selection/intro.md)
