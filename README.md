@@ -92,6 +92,14 @@
 ## D27 
 * [利用python数据分析之数据聚合与分组（七）](https://zhuanlan.zhihu.com/p/27590154)
 
+
 ## D28
 * [特征选择](https://zhuanlan.zhihu.com/p/32749489)
 * [Feature Selection](https://github.com/htygithub/machine-learning-python/blob/master/Feature_Selection/intro.md)
+
+
+
+## D54
+* [Lecture 1.3 — Introduction Unsupervised Learning — [ Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
+* [機器學習: 非監督式學習 (Machine Learning: Unsupervised Learning)](https://murphymind.blogspot.com/2017/06/machine-learning-unsupervised-learning.html)
+
