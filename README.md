@@ -100,8 +100,10 @@
 * [permutation importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights)
 * [机器学习 - 特征选择算法流程、分类、优化与发展综述](https://juejin.im/post/5a1f7903f265da431c70144c)
 
-
-
+##
+* [CTR预估[十一]: Algorithm-GBDT Encoder](https://zhuanlan.zhihu.com/p/31734283)
+* [Feature transformations with ensembles of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html#example-ensemble-plot-feature-transformation-py)
+* [三分鐘了解推薦系統中的分解機方法（Factorization Machine, FM）](https://kknews.cc/zh-tw/other/62k4rml.html)
 
 
 
