@@ -92,10 +92,16 @@
 ## D27 
 * [利用python数据分析之数据聚合与分组（七）](https://zhuanlan.zhihu.com/p/27590154)
 
-
 ## D28
 * [特征选择](https://zhuanlan.zhihu.com/p/32749489)
 * [Feature Selection](https://github.com/htygithub/machine-learning-python/blob/master/Feature_Selection/intro.md)
+
+## D29
+* [permutation importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights)
+* [机器学习 - 特征选择算法流程、分类、优化与发展综述](https://juejin.im/post/5a1f7903f265da431c70144c)
+
+
+
 
 
 
