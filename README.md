@@ -105,7 +105,10 @@
 * [Feature transformations with ensembles of trees](https://scikit-learn.org/stable/auto_examples/ensemble/plot_feature_transformation.html#example-ensemble-plot-feature-transformation-py)
 * [三分鐘了解推薦系統中的分解機方法（Factorization Machine, FM）](https://kknews.cc/zh-tw/other/62k4rml.html)
 
-
+## D31
+* [機器學習的機器是怎麼從資料中「學」到東西的？超簡單機器學習名詞入門篇！](https://kopu.chat/2017/07/28/%E6%A9%9F%E5%99%A8%E6%98%AF%E6%80%8E%E9%BA%BC%E5%BE%9E%E8%B3%87%E6%96%99%E4%B8%AD%E3%80%8C%E5%AD%B8%E3%80%8D%E5%88%B0%E6%9D%B1%E8%A5%BF%E7%9A%84%E5%91%A2/)
+* [Stanford 李飛飛教授 TED Talk - 如何教懂電腦看圖像](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-tw)
+* [ML Lecture 0-1: Introduction of Machine Learning](https://www.youtube.com/watch?v=CXgbekl66jc)
 
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
