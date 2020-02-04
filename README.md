@@ -110,6 +110,13 @@
 * [Stanford 李飛飛教授 TED Talk - 如何教懂電腦看圖像](https://www.ted.com/talks/fei_fei_li_how_we_re_teaching_computers_to_understand_pictures?language=zh-tw)
 * [ML Lecture 0-1: Introduction of Machine Learning](https://www.youtube.com/watch?v=CXgbekl66jc)
 
+## D32
+* [Google AI blog](https://ai.googleblog.com/)
+* [Facebook Research blog](https://research.fb.com/blog/)
+* [Apple machine learning journal](https://machinelearning.apple.com/)
+* [機器之心](https://www.jiqizhixin.com/)
+* [雷鋒網](http://www.leiphone.com/category/ai)
+
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
 * [機器學習: 非監督式學習 (Machine Learning: Unsupervised Learning)](https://murphymind.blogspot.com/2017/06/machine-learning-unsupervised-learning.html)
