@@ -123,6 +123,10 @@
 ## D34
 * [台大電機李宏毅教授講解訊練/驗證/測試集的意義](https://www.youtube.com/watch?v=D_S6y0Jm6dQ&feature=youtu.be&t=1948)
 
+## D35
+* [如何辨別機器學習模型的好壞？秒懂Confusion Matrix](https://www.ycc.idv.tw/confusion-matrix.html)
+* [ROC curves and Area Under the Curve explained (video)](https://www.dataschool.io/roc-curves-and-auc-explained/)
+* [1.多標籤分類是什麼?](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/learning-model-multi-lable-classification-74d2799ff395)
 
 
 ## D54
