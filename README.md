@@ -126,8 +126,10 @@
 ## D35
 * [如何辨別機器學習模型的好壞？秒懂Confusion Matrix](https://www.ycc.idv.tw/confusion-matrix.html)
 * [ROC curves and Area Under the Curve explained (video)](https://www.dataschool.io/roc-curves-and-auc-explained/)
-* [1.多標籤分類是什麼?](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/learning-model-multi-lable-classification-74d2799ff395)
+* [多標籤分類是什麼?](https://medium.com/ai%E5%8F%8D%E6%96%97%E5%9F%8E/learning-model-multi-lable-classification-74d2799ff395)
 
+## D36
+* [机器学习模型评估](https://zhuanlan.zhihu.com/p/30721429)
 
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
