@@ -120,6 +120,11 @@
 ## D33
 * [學習曲線與 bias/variance trade-off](http://bangqu.com/yjB839.html)
 
+## D34
+* [台大電機李宏毅教授講解訊練/驗證/測試集的意義](https://www.youtube.com/watch?v=D_S6y0Jm6dQ&feature=youtu.be&t=1948)
+
+
+
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
 * [機器學習: 非監督式學習 (Machine Learning: Unsupervised Learning)](https://murphymind.blogspot.com/2017/06/machine-learning-unsupervised-learning.html)
