@@ -131,6 +131,11 @@
 ## D36
 * [机器学习模型评估](https://zhuanlan.zhihu.com/p/30721429)
 
+## D37 
+* [逻辑回归常见面试题总结](https://blog.csdn.net/qq_23269761/article/details/81778585c)
+* [Andrew Ng - Linear regression](https://zh-tw.coursera.org/lecture/machine-learning/cost-function-rkTp3)
+
+
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
 * [機器學習: 非監督式學習 (Machine Learning: Unsupervised Learning)](https://murphymind.blogspot.com/2017/06/machine-learning-unsupervised-learning.html)
