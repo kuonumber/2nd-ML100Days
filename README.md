@@ -135,6 +135,9 @@
 * [逻辑回归常见面试题总结](https://blog.csdn.net/qq_23269761/article/details/81778585c)
 * [Andrew Ng - Linear regression](https://zh-tw.coursera.org/lecture/machine-learning/cost-function-rkTp3)
 
+## D38 
+* [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
+* [2 WAYS TO IMPLEMENT MULTINOMIAL LOGISTIC REGRESSION IN PYTHON](http://dataaspirant.com/2017/05/15/implement-multinomial-logistic-regression-python/)
 
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
