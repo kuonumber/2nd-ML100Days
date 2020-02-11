@@ -139,6 +139,12 @@
 * [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 * [2 WAYS TO IMPLEMENT MULTINOMIAL LOGISTIC REGRESSION IN PYTHON](http://dataaspirant.com/2017/05/15/implement-multinomial-logistic-regression-python/)
 
+## D39
+* [什么是稀疏特征(Sparse Features)?](https://www.zhihu.com/question/31951092)
+* [What is Multicollinearity? Extensive video + simulation!](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
+* [Regularized Regression | 正規化迴歸](https://www.jamleecute.com/regularized-regression-ridge-lasso-elastic/)
+
+
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
 * [機器學習: 非監督式學習 (Machine Learning: Unsupervised Learning)](https://murphymind.blogspot.com/2017/06/machine-learning-unsupervised-learning.html)
