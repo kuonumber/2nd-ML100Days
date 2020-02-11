@@ -139,13 +139,16 @@
 * [homemade-machine-learning](https://github.com/trekhleb/homemade-machine-learning)
 * [2 WAYS TO IMPLEMENT MULTINOMIAL LOGISTIC REGRESSION IN PYTHON](http://dataaspirant.com/2017/05/15/implement-multinomial-logistic-regression-python/)
 
-## D39
+## D39 - D40
 * [什么是稀疏特征(Sparse Features)?](https://www.zhihu.com/question/31951092)
 * [What is Multicollinearity? Extensive video + simulation!](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
 * [Regularized Regression | 正規化迴歸](https://www.jamleecute.com/regularized-regression-ridge-lasso-elastic/)
 * [讀者提問：多元迴歸分析的變數選擇](https://taweihuang.hpd.io/2016/09/12/%E8%AE%80%E8%80%85%E6%8F%90%E5%95%8F%EF%BC%9A%E5%A4%9A%E5%85%83%E8%BF%B4%E6%AD%B8%E5%88%86%E6%9E%90%E7%9A%84%E8%AE%8A%E6%95%B8%E9%81%B8%E6%93%87/)
 * [Linear least squares, Lasso,ridge regression有何本质区别？](https://www.zhihu.com/question/38121173)
 
+## D41
+* [資料分析&機器學習 決策樹(Decision Tree)以及隨機森林(Random Forest)介紹](https://medium.com/jameslearningnote/%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90-%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%AC%AC3-5%E8%AC%9B-%E6%B1%BA%E7%AD%96%E6%A8%B9-decision-tree-%E4%BB%A5%E5%8F%8A%E9%9A%A8%E6%A9%9F%E6%A3%AE%E6%9E%97-random-forest-%E4%BB%8B%E7%B4%B9-7079b0ddfbda)
+* [how-decision-tree-algorithm-works](http://dataaspirant.com/2017/01/30/how-decision-tree-algorithm-works/)
 
 ## D54
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
