@@ -143,6 +143,8 @@
 * [什么是稀疏特征(Sparse Features)?](https://www.zhihu.com/question/31951092)
 * [What is Multicollinearity? Extensive video + simulation!](https://www.youtube.com/watch?v=Cba9LJ9lS8s)
 * [Regularized Regression | 正規化迴歸](https://www.jamleecute.com/regularized-regression-ridge-lasso-elastic/)
+* [讀者提問：多元迴歸分析的變數選擇](https://taweihuang.hpd.io/2016/09/12/%E8%AE%80%E8%80%85%E6%8F%90%E5%95%8F%EF%BC%9A%E5%A4%9A%E5%85%83%E8%BF%B4%E6%AD%B8%E5%88%86%E6%9E%90%E7%9A%84%E8%AE%8A%E6%95%B8%E9%81%B8%E6%93%87/)
+* [Linear least squares, Lasso,ridge regression有何本质区别？](https://www.zhihu.com/question/38121173)
 
 
 ## D54
