@@ -168,5 +168,7 @@
 ## D71
 * [Reference 激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/)
 * [神經網路常用啟動函數總結](https://zhuanlan.zhihu.com/p/39673127)
+
+## D72
 * [Dead ReLU Problem' 产生的原因](https://blog.csdn.net/disiwei1012/article/details/79204243)
 * [由 Softmax 想到的（三）—— 从 Sigmoid 到 ReLU，一些常见的激活函数](http://sakigami-yang.me/2017/08/11/thinking-from-softmax-03/)
