@@ -164,3 +164,11 @@
 ## D70
 * [機器學習 - 神經網路 (多層感知機 Multilayer perceptron, MLP) 運作方式](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E7%A5%9E%E7%B6%93%E7%B6%B2%E8%B7%AF-%E5%A4%9A%E5%B1%A4%E6%84%9F%E7%9F%A5%E6%A9%9F-multilayer-perceptron-mlp-%E9%81%8B%E4%BD%9C%E6%96%B9%E5%BC%8F-f0e108e8b9af) 
 * [多層感知機](https://zh.wikipedia.org/wiki/%E5%A4%9A%E5%B1%82%E6%84%9F%E7%9F%A5%E5%99%A8)
+
+## D71
+* [Reference 激活函數的圖示及其一階導數](https://dashee87.github.io/deep%20learning/visualising-activation-functions-in-neural-networks/)
+* [神經網路常用啟動函數總結](https://zhuanlan.zhihu.com/p/39673127)
+
+## D72
+* [Dead ReLU Problem' 产生的原因](https://blog.csdn.net/disiwei1012/article/details/79204243)
+* [由 Softmax 想到的（三）—— 从 Sigmoid 到 ReLU，一些常见的激活函数](http://sakigami-yang.me/2017/08/11/thinking-from-softmax-03/)
