@@ -159,6 +159,7 @@
 
 ## D65
 * [深度学习网络调参技巧](https://zhuanlan.zhihu.com/p/24720954)
+* [Understanding neural networks with TensorFlow Playground](https://cloud.google.com/blog/products/gcp/understanding-neural-networks-with-tensorflow-playground)
 
 ## D66
 * [實用的tensorflow安裝建議](https://medium.com/@johnnyliao/%E5%9C%A8win10%E4%B8%8A%E5%AE%89%E8%A3%9Dcuda-toolkit-cudnn-tensorflow-gpu-1-12%E4%BB%A5%E4%B8%8B%E5%8F%8A1-13%E4%BB%A5%E4%B8%8A-%E7%9A%84%E5%AE%89%E8%A3%9D%E7%B6%93%E9%A9%97%E5%88%86%E4%BA%AB-c792953b316f)
