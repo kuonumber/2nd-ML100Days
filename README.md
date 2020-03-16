@@ -180,3 +180,9 @@
 ## D72
 * [Dead ReLU Problem' 产生的原因](https://blog.csdn.net/disiwei1012/article/details/79204243)
 * [由 Softmax 想到的（三）—— 从 Sigmoid 到 ReLU，一些常见的激活函数](http://sakigami-yang.me/2017/08/11/thinking-from-softmax-03/)
+
+## D92 
+* [卷積神經網路的運作原理](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_convolutional_neural_networks_work.html)
+* [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
+* [What is a filter in the context of Convolutional Neural Networks?](https://www.quora.com/What-is-a-filter-in-the-context-of-Convolutional-Neural-Networks)
+* [What is the number of filter in CNN?](https://stackoverflow.com/questions/36243536/what-is-the-number-of-filter-in-cnn)
