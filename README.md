@@ -186,3 +186,6 @@
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
 * [What is a filter in the context of Convolutional Neural Networks?](https://www.quora.com/What-is-a-filter-in-the-context-of-Convolutional-Neural-Networks)
 * [What is the number of filter in CNN?](https://stackoverflow.com/questions/36243536/what-is-the-number-of-filter-in-cnn)
+
+## D93
+* ![CNN 工作模型](https://ai100-fileentity.cupoy.com/2nd/homework/D93/1564377818729/large)
