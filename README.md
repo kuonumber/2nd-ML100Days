@@ -189,3 +189,7 @@
 
 ## D93
 * ![CNN 工作模型](https://ai100-fileentity.cupoy.com/2nd/homework/D93/1564377818729/large)
+
+## D94
+* [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+* [Day 06：處理影像的利器 -- 卷積神經網路(Convolutional Neural Network)](https://dotblogs.com.tw/greengem/2017/12/17/094150)
