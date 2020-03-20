@@ -157,6 +157,9 @@
 * [Lecture 1.3 — Introduction Unsupervised Learning —  Machine Learning | Andrew Ng](https://www.youtube.com/watch?v=jAA2g9ItoAc)
 * [機器學習: 非監督式學習 (Machine Learning: Unsupervised Learning)](https://murphymind.blogspot.com/2017/06/machine-learning-unsupervised-learning.html)
 
+## D57
+* [StatsLearning Lect12d 111113](https://youtu.be/Tuuc9Y06tAc)
+
 ## D63
 * [3 分鐘搞懂深度學習到底在深什麼](https://panx.asia/archives/53209)
 * [人工智慧大歷史](https://medium.com/@suipichen/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%A4%A7%E6%AD%B7%E5%8F%B2-ffe46a350543)
@@ -189,3 +192,7 @@
 
 ## D93
 * ![CNN 工作模型](https://ai100-fileentity.cupoy.com/2nd/homework/D93/1564377818729/large)
+
+## D94
+* [An Intuitive Explanation of Convolutional Neural Networks](https://ujjwalkarn.me/2016/08/11/intuitive-explanation-convnets/)
+* [Day 06：處理影像的利器 -- 卷積神經網路(Convolutional Neural Network)](https://dotblogs.com.tw/greengem/2017/12/17/094150)
