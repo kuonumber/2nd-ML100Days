@@ -160,6 +160,13 @@
 ## D57
 * [StatsLearning Lect12d 111113](https://youtu.be/Tuuc9Y06tAc)
 
+## D59
+* [Dimentional Reduction 影片來源 Andrew Ng](https://youtu.be/rng04VJxUt4)
+* [Principal Components Regression](https://youtu.be/eYxwWGJcOfw)
+* [Further Principal Components ](https://youtu.be/dbuSGWCgdzw)
+* [Unsupervised learning](https://youtu.be/ipyxSYXgzjQ)
+
+
 ## D63
 * [3 分鐘搞懂深度學習到底在深什麼](https://panx.asia/archives/53209)
 * [人工智慧大歷史](https://medium.com/@suipichen/%E4%BA%BA%E5%B7%A5%E6%99%BA%E6%85%A7%E5%A4%A7%E6%AD%B7%E5%8F%B2-ffe46a350543)
