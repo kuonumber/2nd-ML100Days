@@ -166,6 +166,11 @@
 * [Further Principal Components ](https://youtu.be/dbuSGWCgdzw)
 * [Unsupervised learning](https://youtu.be/ipyxSYXgzjQ)
 
+## D60
+* [param_grid的命名問題](https://www.cupoy.com/qa/club/ai_tw/0000016D6BA22D97000000016375706F795F72656C656173654B5741535354434C5542/0000016CE1CA038C000000936375706F795F72656C656173655155455354)
+* [Axes3D 用法教學](https://morvanzhou.github.io/tutorials/data-manipulation/plt/3-5-3d/)
+* [Matplotlib subplots](https://www.tutorialspoint.com/matplotlib/matplotlib_subplots_function.htm)
+
 
 ## D63
 * [3 分鐘搞懂深度學習到底在深什麼](https://panx.asia/archives/53209)
