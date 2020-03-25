@@ -171,6 +171,10 @@
 * [Axes3D 用法教學](https://morvanzhou.github.io/tutorials/data-manipulation/plt/3-5-3d/)
 * [Matplotlib subplots](https://www.tutorialspoint.com/matplotlib/matplotlib_subplots_function.htm)
 
+## 61
+* [ML Lecture 15: Unsupervised Learning - Neighbor Embedding includes t-SNE](https://youtu.be/GBUEjkpoxXc)
+* [Visualizing Data Using t-SNE](https://youtu.be/RJVL80Gg3lA)
+
 
 ## D63
 * [3 分鐘搞懂深度學習到底在深什麼](https://panx.asia/archives/53209)
