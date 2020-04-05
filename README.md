@@ -200,6 +200,10 @@
 * [Dead ReLU Problem' 产生的原因](https://blog.csdn.net/disiwei1012/article/details/79204243)
 * [由 Softmax 想到的（三）—— 从 Sigmoid 到 ReLU，一些常见的激活函数](http://sakigami-yang.me/2017/08/11/thinking-from-softmax-03/)
 
+## D73
+* [機器/深度學習-基礎數學(二):梯度下降法(gradient descent)](https://medium.com/@chih.sheng.huang821/%E6%A9%9F%E5%99%A8%E5%AD%B8%E7%BF%92-%E5%9F%BA%E7%A4%8E%E6%95%B8%E5%AD%B8-%E4%BA%8C-%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D%E6%B3%95-gradient-descent-406e1fd001f)
+* [Tensorflow中learning rate decay的奇技淫巧](https://zhuanlan.zhihu.com/p/32923584)
+
 ## D92 
 * [卷積神經網路的運作原理](https://brohrer.mcknote.com/zh-Hant/how_machine_learning_works/how_convolutional_neural_networks_work.html)
 * [A Beginner's Guide To Understanding Convolutional Neural Networks](https://adeshpande3.github.io/A-Beginner's-Guide-To-Understanding-Convolutional-Neural-Networks/)
